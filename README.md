@@ -1,4 +1,3 @@
-- 🔍 QA Analyst
 - 💻 I’m currently working at Avalara
 - 🌱 I’m currently learning Cypress
 
