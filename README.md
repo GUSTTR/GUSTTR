@@ -14,5 +14,5 @@ Olá!
 <a href = "mailto:gusttr@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 <a href="https://gusttr.github.io/linkdev/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/gusttr/gusttr/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/GUSTTR/GUSTTR/blob/output/github-contribution-grid-snake.svg)
  
